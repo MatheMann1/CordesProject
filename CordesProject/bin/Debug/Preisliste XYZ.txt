@@ -1,0 +1,21 @@
+Komponenten GbR
+
+[Warengruppe	Bezeichnung	Artikelnummer	Preis	Gewicht	Lieferzeit
+CPU	SIMATIC S7-1200, CPU 1211C	6ES7211-1AE40-0XB0	650,00 €	0,337 kg	6 W
+CPU	SIMATIC S7-1200, CPU 1212C	6ES7212-1AE40-0XB0	700,00 €	0,340 kg	6 W
+CPU	SIMATIC S7-1200, CPU 1214C	6ES7214-1AG40-0XB0	750,00 €	0,412 kg	6 W
+CPU	SIMATIC S7-1200, CPU 1215C	6ES7215-1AG40-0XB0	800,00 €	0,446 kg	6 W
+CPU	SIMATIC S7-1200, CPU 1217C	6ES7217-1AG40-0XB0	850,00 €	0,504 kg	6 W
+Stromversorger	SIMATIC S7-1200 POWER	6EP1332-1SH71	180,00 €	0,300 kg	4 W
+Digitalbaugruppe	Digitaleingabe SM 1221	6ES7221-1BF32-0XB0	130,00 €	0,170 kg	4 W
+Digitalbaugruppe	Digitaleingabe SB 1221	6ES7221-3AD30-0XB0	155,00 €	0,035 kg	4 W
+Digitalbaugruppe	Digitalausgabe SM 1222	6ES7222-1BF32-0XB0	160,00 €	0,180 kg	4 W
+Digitalbaugruppe	Digitalausgabe SB 1222	6ES7222-1AD30-0XB0	190,00 €	0,033 kg	4 W
+Analogbaugruppe	Analogeingabe SM 1231	6ES7231-4HD32-0XB0	220,00 €	0,172 kg	5 W
+Analogbaugruppe	Analogeingabe SB 1231	6ES7231-4HA30-0XB0	255,00 €	0,027 kg	5 W
+Analogbaugruppe	Analogausgabe SM 1232	6ES7232-4HB32-0XB0	245,00 €	0,169 kg	5 W
+Analogbaugruppe	Analogausgabe SB 1232	6ES7232-4HA30-0XB0	285,00 €	0,028 kg	5 W
+Sonderbaugruppe	Simulator SIM 1274	6ES7274-1XA30-0XA0	955,00 €	0,013 kg	5 W
+Sonderbaugruppe	Battery Board BB 1297	6ES7297-0AX30-0XA0	330,00 €	0,021 kg	5 W
+Kommunikation	Communication Board CB 1241 RS485	6ES7241-1CH30-1XB0	260,00 €	0,029 kg	8 W
+Kommunikation	CM 1242-5	6GK7242-5DX30-0XE0	320,00 €	0,172 kg	8 W
